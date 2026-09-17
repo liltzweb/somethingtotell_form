@@ -15,7 +15,6 @@ Form pemesanan publik untuk website **somethingtotell** milik katalog liltz. Web
 
 - Base: **Rp7.000**
 - Recolor: **+Rp2.000**
-- Simple decoration: **+Rp3.000**
 - Rush <24 jam: **+Rp4.000**
 
 ## Media
