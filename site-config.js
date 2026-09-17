@@ -45,7 +45,7 @@ window.FORM_CONFIG = {
         {
           "key": "chat_link",
           "label": "link telegram tujuan jawaban nembak",
-          "placeholder": "default: https://t.me/mirssy",
+          "placeholder": "default: https://t.me/reeumen",
           "long": false,
           "required": false
         },
